@@ -6,8 +6,8 @@
 	import Slide from './slide.svelte';
 </script>
 
-<Slide animate>
-	<p>First</p>
+<Slide backgroundImage="title-bg.jpg">
+	<h1><span id="mainTitle">Build things that don't scale at all</span></h1>
 </Slide>
 
 <Slide animate>

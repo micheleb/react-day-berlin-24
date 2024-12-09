@@ -12,3 +12,8 @@
 	--r-link-color: #5563b4;
 	--r-link-color-hover: #929ee2;
 }
+
+#mainTitle {
+	background-color: rgba(0, 0, 0, 0.65);
+	line-height: 1.4;
+}

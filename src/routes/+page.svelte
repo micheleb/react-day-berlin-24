@@ -5,8 +5,8 @@
 </script>
 
 <svelte:head>
-	<title>My Slides</title>
-	<meta content="My Slides" name="description" />
+	<title>Build things that don't scale at all</title>
+	<meta content="My Slides" name="React Day Berlin 2024" />
 </svelte:head>
 
 <Slides />
