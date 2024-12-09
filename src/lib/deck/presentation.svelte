@@ -15,32 +15,89 @@
 	<p class="r-fix-text">I wish I had an app that...</p>
 </Slide>
 
+<Slide>
+	<div class="flex content-start justify-center">
+		<video class="object-contain h-svh" data-autoplay src="app-store.mp4"><track kind="captions" /></video>
+	</div>
+</Slide>
+
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="choose-one.webp" class="cover" alt="Choose one meme" />
+	</div>
+</Slide>
+
+
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="ATTF.png" class="cover" alt="iOS ATTF dialog" />
+	</div>
+</Slide>
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="Notifications.png" class="cover" alt="iOS Push Notifications dialog" />
+	</div>
+</Slide>
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="Camera.png" class="cover" alt="iOS Camera dialog" />
+	</div>
+</Slide>
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="Microphone.png" class="cover" alt="iOS Microphone dialog" />
+	</div>
+</Slide>
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="Photos.png" class="cover" alt="iOS Photos dialog" />
+	</div>
+</Slide>
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="Location.png" class="cover" alt="iOS Location dialog" />
+	</div>
+</Slide>
+
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="ben.webp" class="cover" alt="Ben Affleck Smoking meme" />
+	</div>
+</Slide>
+
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="bender.jpg" class="cover" alt="Bender I'll make my own meme" />
+	</div>
+</Slide>
 <!-- {#if deck}
 <OneByOne deck={deck} />
 {/if} -->
 
 <Slide animate>
-	<Fragment animation="fade-in-then-semi-out">But Distribution</Fragment>
-	<Fragment animation="fade-in-then-semi-out">But Authentication</Fragment>
-	<Fragment animation="fade-in-then-semi-out">But Multiplatform</Fragment>
-	<Fragment animation="fade-in-then-semi-out">But Form Factors</Fragment>
-	<Fragment animation="fade-in-then-semi-out">But Dark Mode</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Distribution 🤦‍♂️</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Authentication 😵</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Multiplatform 🫠</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Form Factors 😶</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Dark Mode 🙃</Fragment>
 </Slide>
 
 <Slide animate>
 	<Slide animate>
-		<Fragment animation="fade-in-then-semi-out">But Analytics</Fragment>
-		<Fragment animation="fade-in-then-semi-out">But Monetization</Fragment>
-		<Fragment animation="fade-in-then-semi-out">But SEO</Fragment>
-		<Fragment animation="fade-in-then-semi-out">But Localization</Fragment>
-		<Fragment animation="fade-in-then-semi-out">But Competition</Fragment>
-		<Fragment animation="fade-in-then-semi-out">But CI</Fragment>
-		<Fragment animation="fade-in-then-semi-out">But OTA Updates</Fragment>
+		<Fragment animation="fade-in-then-semi-out">Analytics 📈</Fragment>
+		<Fragment animation="fade-in-then-semi-out">Monetization 🤑</Fragment>
+		<Fragment animation="fade-in-then-semi-out">SEO️ 🏴‍</Fragment>
+		<Fragment animation="fade-in-then-semi-out">Localization 🌍</Fragment>
+		<Fragment animation="fade-in-then-semi-out">Competition 🥊</Fragment>
+		<Fragment animation="fade-in-then-semi-out">CI️️ 🏗️</Fragment>
+		<Fragment animation="fade-in-then-semi-out">OTA Updates 🤯️</Fragment>
 	</Slide>
 </Slide>
 
 <Slide>
-
+	<div class="flex content-center justify-center">
+		<img src="imaginary-scale.png" alt="O RLY book cover" />
+	</div>
 </Slide>
 
 <Slide animate>
