@@ -64,6 +64,11 @@
 		<img data-src="ben.webp" class="cover" alt="Ben Affleck Smoking meme" />
 	</div>
 </Slide>
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="ben-gdpr.webp" class="cover" alt="Ben Affleck Smoking meme, with a GDPR dialog on top" />
+	</div>
+</Slide>
 
 <Slide>
 	<div class="flex content-center justify-center h-dvh">
