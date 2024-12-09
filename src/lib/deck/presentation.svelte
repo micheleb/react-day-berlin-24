@@ -86,7 +86,7 @@
 	<Slide animate>
 		<Fragment animation="fade-in-then-semi-out">Analytics 📈</Fragment>
 		<Fragment animation="fade-in-then-semi-out">Monetization 🤑</Fragment>
-		<Fragment animation="fade-in-then-semi-out">SEO️ 🏴‍</Fragment>
+		<Fragment animation="fade-in-then-semi-out">SEO️ ‍🏴‍☠️</Fragment>
 		<Fragment animation="fade-in-then-semi-out">Localization 🌍</Fragment>
 		<Fragment animation="fade-in-then-semi-out">Competition 🥊</Fragment>
 		<Fragment animation="fade-in-then-semi-out">CI️️ 🏗️</Fragment>
