@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Reveal from 'reveal.js';
 	import Code from './code.svelte';
 	import Fragment from './fragment.svelte';
 	import Markdown from './markdown.svelte';
@@ -11,8 +12,35 @@
 </Slide>
 
 <Slide animate>
-	<p>First</p>
-	<p>Slide!</p>
+	<p class="r-fix-text">I wish I had an app that...</p>
+</Slide>
+
+<!-- {#if deck}
+<OneByOne deck={deck} />
+{/if} -->
+
+<Slide animate>
+	<Fragment animation="fade-in-then-semi-out">But Distribution</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Authentication</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Multiplatform</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Form Factors</Fragment>
+	<Fragment animation="fade-in-then-semi-out">But Dark Mode</Fragment>
+</Slide>
+
+<Slide animate>
+	<Slide animate>
+		<Fragment animation="fade-in-then-semi-out">But Analytics</Fragment>
+		<Fragment animation="fade-in-then-semi-out">But Monetization</Fragment>
+		<Fragment animation="fade-in-then-semi-out">But SEO</Fragment>
+		<Fragment animation="fade-in-then-semi-out">But Localization</Fragment>
+		<Fragment animation="fade-in-then-semi-out">But Competition</Fragment>
+		<Fragment animation="fade-in-then-semi-out">But CI</Fragment>
+		<Fragment animation="fade-in-then-semi-out">But OTA Updates</Fragment>
+	</Slide>
+</Slide>
+
+<Slide>
+
 </Slide>
 
 <Slide animate>

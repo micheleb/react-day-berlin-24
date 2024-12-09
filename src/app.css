@@ -6,7 +6,9 @@
 
 :root {
 	--r-main-font: 'Rubik Variable';
+	--r-main-font-size: 52px;
 	--r-heading-font: 'Rubik Variable';
+	--r-heading1-size: 2.8em;
 	--r-code-font: 'JetBrains Mono';
 	--r-inline-code-color: black;
 	--r-link-color: #5563b4;

@@ -10,8 +10,10 @@
 
 	import Presentation from './presentation.svelte';
 
+	let deck: Reveal.Api;
+
 	onMount(() => {
-		const deck = new Reveal({
+		deck = new Reveal({
 			autoAnimateDuration: 1,
 			autoAnimateEasing: 'ease',
 			controls: false,
@@ -31,6 +33,6 @@
 
 <div class="reveal">
 	<div class="slides">
-		<Presentation />
+		<Presentation deck={deck} />
 	</div>
 </div>
