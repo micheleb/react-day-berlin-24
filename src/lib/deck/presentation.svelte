@@ -348,7 +348,7 @@
 				<Fragment animation="fade-in-then-semi-out">1 Form Factor</Fragment>
 				<Fragment animation="fade-in-then-semi-out">2 Users 👭</Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 Locale 🇩🇪</Fragment>
-				<Fragment animation="fade-in-then-semi-out">DIY Auth 📞🫥</Fragment>
+				<Fragment animation="fade-in-then-semi-out">DIY Auth 📞</Fragment>
 				<Fragment animation="fade-in-then-semi-out">Expo Go 📷</Fragment>
 			</Slide>
 		</div>
