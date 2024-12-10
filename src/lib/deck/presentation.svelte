@@ -1,7 +1,5 @@
 <script lang="ts">
-	import Code from './code.svelte';
 	import Fragment from './fragment.svelte';
-	import Markdown from './markdown.svelte';
 	import Notes from './notes.svelte';
 	import Slide from './slide.svelte';
 </script>
@@ -101,7 +99,7 @@
 			<img src="whoami.png" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<h3>That's a me!</h3>
+			<h3>It's-a me!</h3>
 			<Slide animate>
 				<Fragment animation="fade-in-then-semi-out">Full-Stack Dev</Fragment>
 				<Fragment animation="fade-in-then-semi-out">Principal RN Engineer @Zattoo</Fragment>
@@ -147,7 +145,7 @@
 	</div>
 </Slide>
 
-<Slide animate>
+<Slide>
 	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
@@ -160,7 +158,7 @@
 	</div>
 </Slide>
 
-<Slide transition={null}>
+<Slide>
 	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
@@ -173,7 +171,7 @@
 	</div>
 </Slide>
 
-<Slide transition={null}>
+<Slide>
 	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
@@ -426,7 +424,7 @@
 		</div>
 	</div>
 </Slide>
-<Slide animate>
+<Slide>
 	<Notes>Work in Progress, a bit more in depth</Notes>
 	<div class="flex content-center justify-center">
 		<img src="ancuo-oauth.png" alt="Ancuo Sign In with Google"/>
@@ -436,7 +434,7 @@
 		</div>
 	</div>
 </Slide>
-<Slide animate>
+<Slide>
 	<Notes>Work in Progress, a bit more in depth, default layout by the showcase app</Notes>
 	<div class="flex content-center justify-center">
 		<img src="ancuo-welcome.png" alt="Ancuo Homepage"/>
@@ -500,18 +498,18 @@
 <Slide animate>
 	<h3>Takeaways</h3>
 	<p>Think Small 🤏</p>
-	<p>Smaller Scope 👉 P(🚢)⬆⬆️⬆️️</p>
+	<p>Smaller Scope 👉 P(🚢) ⬆️⬆️⬆️️</p>
 </Slide>
 <Slide animate>
 	<h3>Takeaways</h3>
 	<p>Think Small 🤏</p>
-	<p>Smaller Scope 👉 P(🚢)⬆⬆️⬆️️</p>
+	<p>Smaller Scope 👉 P(🚢) ⬆️⬆️⬆️️</p>
 	<p>Have Fun with Libraries! 🦄</p>
 </Slide>
 <Slide animate>
 	<h3>Takeaways</h3>
 	<p>Think Small 🤏</p>
-	<p>Smaller Scope 👉 P(🚢)⬆⬆️⬆️️</p>
+	<p>Smaller Scope 👉 P(🚢) ⬆️⬆️⬆️️</p>
 	<p>Have Fun with Libraries! 🦄</p>
 	<p>...But One at the Time 😅</p>
 </Slide>
@@ -519,7 +517,7 @@
 	<Notes>Even with Expo, they're a black hole</Notes>
 	<h3>Takeaways</h3>
 	<p>Think Small 🤏</p>
-	<p>Smaller Scope 👉 P(🚢)⬆⬆️⬆️️</p>
+	<p>Smaller Scope 👉 P(🚢) ⬆️⬆️⬆️️</p>
 	<p>Have Fun with Libraries! 🦄</p>
 	<p>...But One at the Time 😅</p>
 	<p>Stay Away from the Stores if you can! 🤕</p>
