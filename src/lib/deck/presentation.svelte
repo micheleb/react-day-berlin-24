@@ -96,9 +96,19 @@
 
 <Slide>
 	<Notes>Sorry for reusing pic. Recently joined Zattoo as Principal, so my job is to actually care about all of that.</Notes>
-	<Fragment animation="fade-in-then-semi-out">Full Stack Dev</Fragment>
-	<Fragment animation="fade-in-then-semi-out">Principal RN Engineer @Zattoo</Fragment>
-	<Fragment animation="fade-in-then-semi-out">Opinions are my own</Fragment>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="whoami.png" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>That's a me!</h3>
+			<Slide animate>
+				<Fragment animation="fade-in-then-semi-out">Full-Stack Dev</Fragment>
+				<Fragment animation="fade-in-then-semi-out">Principal RN Engineer @Zattoo</Fragment>
+				<Fragment animation="fade-in-then-semi-out">Opinions are my very own</Fragment>
+			</Slide>
+		</div>
+	</div>
 </Slide>
 
 <Slide>
@@ -490,25 +500,26 @@
 <Slide animate>
 	<h3>Takeaways</h3>
 	<p>Think Small 🤏</p>
-	<p>Smaller Scope 👉 P(writing) 📈</p>
+	<p>Smaller Scope 👉 P(🚢)⬆⬆️⬆️️</p>
 </Slide>
 <Slide animate>
 	<h3>Takeaways</h3>
 	<p>Think Small 🤏</p>
-	<p>Smaller Scope 👉 P(writing) 📈</p>
+	<p>Smaller Scope 👉 P(🚢)⬆⬆️⬆️️</p>
 	<p>Have Fun with Libraries! 🦄</p>
 </Slide>
 <Slide animate>
 	<h3>Takeaways</h3>
 	<p>Think Small 🤏</p>
-	<p>Smaller Scope 👉 P(writing) 📈</p>
+	<p>Smaller Scope 👉 P(🚢)⬆⬆️⬆️️</p>
 	<p>Have Fun with Libraries! 🦄</p>
 	<p>...But One at the Time 😅</p>
 </Slide>
 <Slide animate>
+	<Notes>Even with Expo, they're a black hole</Notes>
 	<h3>Takeaways</h3>
 	<p>Think Small 🤏</p>
-	<p>Smaller Scope 👉 P(writing) 📈</p>
+	<p>Smaller Scope 👉 P(🚢)⬆⬆️⬆️️</p>
 	<p>Have Fun with Libraries! 🦄</p>
 	<p>...But One at the Time 😅</p>
 	<p>Stay Away from the Stores if you can! 🤕</p>
