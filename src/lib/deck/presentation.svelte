@@ -324,6 +324,32 @@
 			<p>A Private Chat App 👭</p>
 			<p>Expo Notifications 📩</p>
 			<p>And a Timer️️ ⏲️</p>
+			<p>Using Expo Go️️ 💡</p>
+		</div>
+	</div>
+</Slide>
+<Slide>
+	<Notes>Designed for iPads, no WhatsApp, no native anything</Notes>
+	<div class="flex content-center justify-center">
+		<img src="expo-go.png" alt="Time's up dialog"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+			<p>Expo Notifications 📩</p>
+			<p>And a Timer️️ ⏲️</p>
+			<p>Using Expo Go️️ 💡</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Designed for iPads, no WhatsApp, no native anything</Notes>
+	<div class="flex content-center justify-center">
+		<img src="expo-go.png" alt="Time's up dialog"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+			<p>Expo Notifications 📩</p>
+			<p>And a Timer️️ ⏲️</p>
 			<p>Using Expo Go️️ 🤫</p>
 		</div>
 	</div>
