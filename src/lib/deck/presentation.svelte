@@ -1,5 +1,4 @@
 <script lang="ts">
-	import Reveal from 'reveal.js';
 	import Code from './code.svelte';
 	import Fragment from './fragment.svelte';
 	import Markdown from './markdown.svelte';
@@ -41,16 +40,6 @@
 <Slide>
 	<div class="flex content-center justify-center h-dvh">
 		<img data-src="Camera.png" class="cover" alt="iOS Camera dialog" />
-	</div>
-</Slide>
-<Slide>
-	<div class="flex content-center justify-center h-dvh">
-		<img data-src="Microphone.png" class="cover" alt="iOS Microphone dialog" />
-	</div>
-</Slide>
-<Slide>
-	<div class="flex content-center justify-center h-dvh">
-		<img data-src="Photos.png" class="cover" alt="iOS Photos dialog" />
 	</div>
 </Slide>
 <Slide>
@@ -105,10 +94,167 @@
 	</div>
 </Slide>
 
+<Slide>
+	<Notes>Sorry for reusing pic. Recently joined Zattoo as Principal, so my job is to actually care about all of that.</Notes>
+	<Fragment animation="fade-in-then-semi-out">Full Stack Dev</Fragment>
+	<Fragment animation="fade-in-then-semi-out">Principal RN Engineer @Zattoo</Fragment>
+	<Fragment animation="fade-in-then-semi-out">Opinions are my own</Fragment>
+</Slide>
+
+<Slide>
+	<h1>Examples</h1>
+</Slide>
+
 <Slide animate>
-	<p>First</p>
-	<p>Slide!</p>
-	<p>With <a href="https://github.com" target="_blank">links</a>!</p>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<img src="shottino0.png" alt="shottino showcase"/>
+	</div>
+</Slide>
+
+<Slide animate>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="shottino0.png" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<p>Shottino</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide animate>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="shottino0.png" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<p>Shottino</p>
+			<p>📷 Auto-crops screenshots</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide animate>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="shottino1.jpeg" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<p>Shottino</p>
+			<p>📷 Auto-crops screenshots</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide transition={null}>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="shottino2.jpeg" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<p>Shottino</p>
+			<p>📷 Auto-crops screenshots</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide transition={null}>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="shottino3.jpeg" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<p>Shottino</p>
+			<p>📷 Auto-crops screenshots</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide animate>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="shottino4.jpeg" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<p>Shottino</p>
+			<p>📷 Auto-crops screenshots</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide animate>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="shottino4.jpeg" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<p>Shottino</p>
+			<p>📷 Auto-crops screenshots</p>
+			<p>Streamlines sharing</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="shottino4.jpeg" alt="shottino showcase"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h4>Features</h4>
+			<Slide animate>
+				<Fragment animation="fade-in-then-semi-out">1 Platform <img class="inline self-start" src="android.svg" width="32" alt="Android logo"/></Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 User 🧔🏼‍♂️</Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 Form Factor 📱</Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 Locale 🇮🇹</Fragment>
+				<Fragment animation="fade-in-then-semi-out">RN Cli 🫥</Fragment>
+				<Fragment animation="fade-in-then-semi-out">No Auth 🫥</Fragment>
+			</Slide>
+		</div>
+	</div>
+</Slide>
+
+
+<Slide animate>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<img src="shottino1.jpeg" alt="shottino showcase"/>
+		<div class="flex flex-col">
+			<p>Shottino</p>
+			<p>📷 Auto-crops screenshots, streamlines sharing</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide animate>
+	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<div class="flex content-center justify-center">
+		<img src="shottino1.jpeg" alt="shottino showcase"/>
+		<div class="flex flex-col">
+			<p>Shottino</p>
+			<p>📷 Auto-crops screenshots, streamlines sharing</p>
+			<p>Test</p>
+		</div>
+	</div>
+</Slide>
+
+<Slide animate>
+	<Notes>Designed for iPads, screenshots are for phones cause I'm lazy and it was faster</Notes>
+	<Fragment animation="fade-in-then-semi-out">CamiNora</Fragment>
+</Slide>
+
+<Slide animate>
+	<Notes>Designed for iPads, screenshots are for phones cause I'm lazy and it was faster</Notes>
+	<Fragment animation="fade-in-then-semi-out">CamiNora</Fragment>
 </Slide>
 
 <Slide animate>
