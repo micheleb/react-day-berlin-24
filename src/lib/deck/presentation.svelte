@@ -224,13 +224,13 @@
 </Slide>
 
 <Slide animate>
-	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<Notes>Designed for iPads, no WhatsApp, there's a lib for that (gifted chat)</Notes>
 	<div class="flex content-center justify-center">
 		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
 	</div>
 </Slide>
 <Slide animate>
-	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<Notes>Designed for iPads, no WhatsApp, there's a lib for that (gifted chat)</Notes>
 	<div class="flex content-center justify-center">
 		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
@@ -239,7 +239,7 @@
 	</div>
 </Slide>
 <Slide animate>
-	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<Notes>Designed for iPads, no WhatsApp, there's a lib for that (gifted chat)</Notes>
 	<div class="flex content-center justify-center">
 		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
@@ -249,7 +249,7 @@
 	</div>
 </Slide>
 <Slide>
-	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<Notes>Designed for iPads, no WhatsApp, there's a lib for that (gifted chat)</Notes>
 	<div class="flex content-center justify-center">
 		<img src="caminora-chat.jpeg" class="ipad" alt="CamiNora splash screen"/>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
@@ -259,7 +259,7 @@
 	</div>
 </Slide>
 <Slide animate>
-	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<Notes>Designed for iPads, no WhatsApp, there's a lib for that (gifted chat)</Notes>
 	<div class="flex content-center justify-center">
 		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
@@ -329,7 +329,7 @@
 	</div>
 </Slide>
 <Slide>
-	<Notes>Designed for iPads, no WhatsApp, no native anything</Notes>
+	<Notes>Designed for iPads, no WhatsApp, no native anything, no launcher! CamiNora is old, we'll see sthg better later</Notes>
 	<div class="flex content-center justify-center">
 		<img src="expo-go.png" alt="Time's up dialog"/>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
@@ -342,7 +342,7 @@
 	</div>
 </Slide>
 <Slide animate>
-	<Notes>Designed for iPads, no WhatsApp, no native anything</Notes>
+	<Notes>Designed for iPads, no WhatsApp, no native anything, no launcher! CamiNora is old, we'll see sthg better later</Notes>
 	<div class="flex content-center justify-center">
 		<img src="expo-go.png" alt="Time's up dialog"/>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
@@ -377,6 +377,105 @@
 				<Fragment animation="fade-in-then-semi-out">DIY Auth 📞</Fragment>
 				<Fragment animation="fade-in-then-semi-out">Expo Go 📷</Fragment>
 			</Slide>
+		</div>
+	</div>
+</Slide>
+
+<Slide animate>
+	<Notes>Work in Progress, a bit more in depth</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-splash.png" alt="Ancuo Splash Screen"/>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Work in Progress, a bit more in depth</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-splash.png" alt="Ancuo Splash screen"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Work in Progress, a bit more in depth</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-splash.png" alt="Ancuo Splash screen"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+		</div>
+	</div>
+</Slide>
+<Slide>
+	<Notes>Work in Progress, a bit more in depth</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-sign-in.png" alt="Ancuo Sign In"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Work in Progress, a bit more in depth</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-oauth.png" alt="Ancuo Sign In with Google"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Work in Progress, a bit more in depth, default layout by the showcase app</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-welcome.png" alt="Ancuo Homepage"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Work in Progress, a bit more in depth, default layout by the showcase app</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-events.png" alt="Ancuo Events page"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Work in Progress, a bit more in depth, default layout by the showcase app</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-events.png" alt="Ancuo Events page"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+			<p>Expo Dev Build 🛠️</p>
+		</div>
+	</div>
+</Slide>
+<Slide>
+	<Notes>Work in Progress, a bit more in depth, default layout by the showcase app</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-dev.png" alt="Ancuo Dev Build"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+			<p>Expo Dev Build 🛠️</p>
+		</div>
+	</div>
+</Slide>
+<Slide>
+	<Notes>Work in Progress, a bit more in depth, default layout by the showcase app</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-launcher.png" alt="Ancuo Dev Build"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+			<p>Expo Dev Build 🛠️</p>
 		</div>
 	</div>
 </Slide>
