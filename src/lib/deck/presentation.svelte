@@ -210,14 +210,14 @@
 			<img src="shottino4.jpeg" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<h4>Features</h4>
+			<h3>Features</h3>
 			<Slide animate>
-				<Fragment animation="fade-in-then-semi-out">1 Platform <img class="inline self-start" src="android.svg" width="32" alt="Android logo"/></Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 Platform <img class="inline" src="android.svg" width="36" alt="Android logo"/></Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 User 🧔🏼‍♂️</Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 Form Factor 📱</Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 Locale 🇮🇹</Fragment>
-				<Fragment animation="fade-in-then-semi-out">RN Cli 🫥</Fragment>
 				<Fragment animation="fade-in-then-semi-out">No Auth 🫥</Fragment>
+				<Fragment animation="fade-in-then-semi-out">RN Cli 💻</Fragment>
 			</Slide>
 		</div>
 	</div>
