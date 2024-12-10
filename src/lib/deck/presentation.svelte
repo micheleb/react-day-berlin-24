@@ -102,7 +102,7 @@
 			<h3>It's-a me!</h3>
 			<Slide animate>
 				<Fragment animation="fade-in-then-semi-out">Full-Stack Dev</Fragment>
-				<Fragment animation="fade-in-then-semi-out">Principal RN Engineer @Zattoo</Fragment>
+				<Fragment animation="fade-in-then-semi-out">Working with RN + 📺 @Zattoo</Fragment>
 				<Fragment animation="fade-in-then-semi-out">Opinions are my very own</Fragment>
 			</Slide>
 		</div>
