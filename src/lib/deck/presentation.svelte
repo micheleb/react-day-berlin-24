@@ -119,7 +119,7 @@
 			<img src="shottino0.png" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<p>Shottino</p>
+			<h3>Shottino</h3>
 		</div>
 	</div>
 </Slide>
@@ -131,8 +131,8 @@
 			<img src="shottino0.png" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<p>Shottino</p>
-			<p>📷 Auto-crops screenshots</p>
+			<h3>Shottino</h3>
+			<p>📷 Auto-crops Screenshots</p>
 		</div>
 	</div>
 </Slide>
@@ -144,8 +144,8 @@
 			<img src="shottino1.jpeg" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<p>Shottino</p>
-			<p>📷 Auto-crops screenshots</p>
+			<h3>Shottino</h3>
+			<p>📷 Auto-crops Screenshots</p>
 		</div>
 	</div>
 </Slide>
@@ -157,8 +157,8 @@
 			<img src="shottino2.jpeg" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<p>Shottino</p>
-			<p>📷 Auto-crops screenshots</p>
+			<h3>Shottino</h3>
+			<p>📷 Auto-crops Screenshots</p>
 		</div>
 	</div>
 </Slide>
@@ -170,8 +170,8 @@
 			<img src="shottino3.jpeg" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<p>Shottino</p>
-			<p>📷 Auto-crops screenshots</p>
+			<h3>Shottino</h3>
+			<p>📷 Auto-crops Screenshots</p>
 		</div>
 	</div>
 </Slide>
@@ -183,8 +183,8 @@
 			<img src="shottino4.jpeg" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<p>Shottino</p>
-			<p>📷 Auto-crops screenshots</p>
+			<h3>Shottino</h3>
+			<p>📷 Auto-crops Screenshots</p>
 		</div>
 	</div>
 </Slide>
@@ -196,9 +196,9 @@
 			<img src="shottino4.jpeg" alt="shottino showcase"/>
 		</div>
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
-			<p>Shottino</p>
-			<p>📷 Auto-crops screenshots</p>
-			<p>Streamlines sharing</p>
+			<h3>Shottino</h3>
+			<p>📷 Auto-crops Screenshots</p>
+			<p>🚀 Streamlines Sharing</p>
 		</div>
 	</div>
 </Slide>
@@ -213,8 +213,8 @@
 			<h3>Features</h3>
 			<Slide animate>
 				<Fragment animation="fade-in-then-semi-out">1 Platform <img class="inline" src="android.svg" width="36" alt="Android logo"/></Fragment>
-				<Fragment animation="fade-in-then-semi-out">1 User 🧔🏼‍♂️</Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 Form Factor 📱</Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 User 🧔🏼‍♂️</Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 Locale 🇮🇹</Fragment>
 				<Fragment animation="fade-in-then-semi-out">No Auth 🫥</Fragment>
 				<Fragment animation="fade-in-then-semi-out">RN Cli 💻</Fragment>
@@ -223,104 +223,134 @@
 	</div>
 </Slide>
 
-
 <Slide animate>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
 	<div class="flex content-center justify-center">
-		<img src="shottino1.jpeg" alt="shottino showcase"/>
-		<div class="flex flex-col">
-			<p>Shottino</p>
-			<p>📷 Auto-crops screenshots, streamlines sharing</p>
+		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<div class="flex content-center justify-center">
+		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
 		</div>
 	</div>
 </Slide>
-
 <Slide animate>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
 	<div class="flex content-center justify-center">
-		<img src="shottino1.jpeg" alt="shottino showcase"/>
-		<div class="flex flex-col">
-			<p>Shottino</p>
-			<p>📷 Auto-crops screenshots, streamlines sharing</p>
-			<p>Test</p>
+		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
 		</div>
 	</div>
 </Slide>
-
-<Slide animate>
-	<Notes>Designed for iPads, screenshots are for phones cause I'm lazy and it was faster</Notes>
-	<Fragment animation="fade-in-then-semi-out">CamiNora</Fragment>
+<Slide>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<div class="flex content-center justify-center">
+		<img src="caminora-chat.jpeg" class="ipad" alt="CamiNora splash screen"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+		</div>
+	</div>
 </Slide>
-
 <Slide animate>
-	<Notes>Designed for iPads, screenshots are for phones cause I'm lazy and it was faster</Notes>
-	<Fragment animation="fade-in-then-semi-out">CamiNora</Fragment>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<div class="flex content-center justify-center">
+		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+		</div>
+	</div>
 </Slide>
-
 <Slide animate>
-	<p>First</p>
-	<p>Slide!</p>
-	<p>With <a href="https://github.com" target="_blank">links</a>!</p>
-	<p>Press <span class="font-mono bg-slate-200 text-indigo-900 px-2 py-1">s</span> for Speaker Notes</p>
-	<Notes>Here are some speaker notes, too</Notes>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<div class="flex content-center justify-center">
+		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+			<p>Expo Notifications 📩</p>
+		</div>
+	</div>
 </Slide>
-
 <Slide animate>
-	<Fragment animation="highlight-current-blue"><p>fragments</p></Fragment>
-	<Fragment animation="fade-in-then-semi-out"><p>are also</p></Fragment>
-	<Fragment animation="fade-in-then-out"><p>supported</p></Fragment>
-	<Fragment animation="fade-right"><p>with animations, too</p></Fragment>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<div class="flex content-center justify-center">
+		<img src="caminora-splash.png" alt="CamiNora splash screen"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+			<p>Expo Notifications 📩</p>
+			<p>And a Timer️️ ⏲️</p>
+		</div>
+	</div>
+</Slide>
+<Slide>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<div class="flex content-center justify-center">
+		<img src="timesup.png" alt="Time's up dialog"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+			<p>Expo Notifications 📩</p>
+			<p>And a Timer️️ ⏲️</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<div class="flex content-center justify-center">
+		<img src="timesup1.png" alt="Time's up dialog"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+			<p>Expo Notifications 📩</p>
+			<p>And a Timer️️ ⏲️</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Designed for iPads, no WhatsApp</Notes>
+	<div class="flex content-center justify-center">
+		<img src="timesup1.png" alt="Time's up dialog"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>CamiNora</h3>
+			<p>A Private Chat App 👭</p>
+			<p>Expo Notifications 📩</p>
+			<p>And a Timer️️ ⏲️</p>
+			<p>Using Expo Go️️ 🤫</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Yes, it's the Expo Dev Server, apps connect to it and auto-reload</Notes>
+	<div class="flex content-center justify-center">
+	  <img src="rsc.png" class="contain " alt="Expo Go Server"/>
+	</div>
 </Slide>
 
 <Slide>
-	<Slide animate>
-		<h3>Vertical slides</h3>
-	</Slide>
-
-	<Slide animate>
-		<h3>Vertical slides</h3>
-		<p>Nest your slides</p>
-	</Slide>
-
-	<Slide animate>
-		<h3>Vertical slides</h3>
-		<p>Nest your slides</p>
-		<p>And you can navigate vertically</p>
-	</Slide>
-</Slide>
-
-<Markdown>
-	{`
-# Markdown Slide
-- This is another slide
-- and it's written in Markdown!
-
----
-
-# Another Markdown Slide
-- You can create multiple slides at once!
-	`}
-</Markdown>
-
-<Markdown external name="external-example.md" />
-
-<Slide animate>
-	<Code id="code" lines="|2">
-		{`
-		const myFunction = (message: string) => {
-			console.log(message);
-		}
-		`}
-	</Code>
-</Slide>
-
-<Slide animate>
-	<Code id="code" lines="|3">
-		{`
-		const myFunction = (message: string) => {
-			console.log(message);
-			console.log("done!");
-		}
-		`}
-	</Code>
+	<Notes>There's a simple Express.js server on Hetzner (5EUR/month)</Notes>
+	<div class="flex content-center justify-center">
+		<div class="flex-1">
+			<img src="caminora-splash.png" alt="CamiNora Splash Screen"/>
+		</div>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Features</h3>
+			<Slide animate>
+				<Fragment animation="fade-in-then-semi-out">1 Platform</Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 Form Factor</Fragment>
+				<Fragment animation="fade-in-then-semi-out">2 Users 👭</Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 Locale 🇩🇪</Fragment>
+				<Fragment animation="fade-in-then-semi-out">DIY Auth 📞🫥</Fragment>
+				<Fragment animation="fade-in-then-semi-out">Expo Go 📷</Fragment>
+			</Slide>
+		</div>
+	</div>
 </Slide>
