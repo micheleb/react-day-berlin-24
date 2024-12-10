@@ -479,3 +479,45 @@
 		</div>
 	</div>
 </Slide>
+
+<Slide animate>
+	<h3>Takeaways</h3>
+</Slide>
+<Slide animate>
+	<h3>Takeaways</h3>
+	<p>Think Small 🤏</p>
+</Slide>
+<Slide animate>
+	<h3>Takeaways</h3>
+	<p>Think Small 🤏</p>
+	<p>Smaller Scope 👉 P(writing) 📈</p>
+</Slide>
+<Slide animate>
+	<h3>Takeaways</h3>
+	<p>Think Small 🤏</p>
+	<p>Smaller Scope 👉 P(writing) 📈</p>
+	<p>Have Fun with Libraries! 🦄</p>
+</Slide>
+<Slide animate>
+	<h3>Takeaways</h3>
+	<p>Think Small 🤏</p>
+	<p>Smaller Scope 👉 P(writing) 📈</p>
+	<p>Have Fun with Libraries! 🦄</p>
+	<p>...But One at the Time 😅</p>
+</Slide>
+<Slide animate>
+	<h3>Takeaways</h3>
+	<p>Think Small 🤏</p>
+	<p>Smaller Scope 👉 P(writing) 📈</p>
+	<p>Have Fun with Libraries! 🦄</p>
+	<p>...But One at the Time 😅</p>
+	<p>Stay Away from the Stores if you can! 🤕</p>
+</Slide>
+
+<Slide>
+	<h3>Thanks!</h3>
+	<div class="flex justify-center">
+		<img class="qr" alt="QR code to my website" src="qr-code.png" />
+	</div>
+	<a href="https://michelebonazza.com">https://michelebonazza.com</a>
+</Slide>

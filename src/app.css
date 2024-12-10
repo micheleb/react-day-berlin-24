@@ -23,3 +23,5 @@
 .reveal img, .reveal video { max-height: calc(var(--slide-height) - (var(--r-block-margin) * 2)); }
 
 .reveal img.ipad { max-height: calc(var(--slide-height) - (var(--r-block-margin) * 2) - 200px); }
+
+.reveal img.qr { max-height: calc(var(--slide-height) - (var(--r-block-margin) * 2) - (var(--r-main-font-size) * 5)); }
