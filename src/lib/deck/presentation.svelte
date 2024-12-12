@@ -235,12 +235,12 @@
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
 			<h3>Features</h3>
 			<Slide animate>
-				<Fragment animation="fade-in-then-semi-out">1 Platform <img class="inline" src="android.svg" width="36" alt="Android logo"/></Fragment>
-				<Fragment animation="fade-in-then-semi-out">1 Form Factor 📱</Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 Target: <img class="inline" src="android.svg" width="36" alt="Android logo"/>📱</Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 User 🧔🏼‍♂️</Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 Locale 🇮🇹</Fragment>
 				<Fragment animation="fade-in-then-semi-out">No Auth 🫥</Fragment>
 				<Fragment animation="fade-in-then-semi-out">RN Cli 💻</Fragment>
+				<Fragment animation="fade-in-then-semi-out">Time: 1 day 🚀</Fragment>
 			</Slide>
 		</div>
 	</div>
@@ -399,12 +399,12 @@
 		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
 			<h3>Features</h3>
 			<Slide animate>
-				<Fragment animation="fade-in-then-semi-out">1 Platform</Fragment>
-				<Fragment animation="fade-in-then-semi-out">1 Form Factor</Fragment>
+				<Fragment animation="fade-in-then-semi-out">1 Target: 🍏📱</Fragment>
 				<Fragment animation="fade-in-then-semi-out">2 Users 👭</Fragment>
 				<Fragment animation="fade-in-then-semi-out">1 Locale 🇩🇪</Fragment>
 				<Fragment animation="fade-in-then-semi-out">DIY Auth 📞</Fragment>
 				<Fragment animation="fade-in-then-semi-out">Expo Go 📷</Fragment>
+				<Fragment animation="fade-in-then-semi-out">Time: 1 Weekend 🏃🏼</Fragment>
 			</Slide>
 		</div>
 	</div>
@@ -497,7 +497,7 @@
 		</div>
 	</div>
 </Slide>
-<Slide>
+<Slide animate>
 	<Notes>Work in Progress, a bit more in depth, default layout by the showcase app</Notes>
 	<div class="flex content-center justify-center">
 		<img src="ancuo-launcher.png" alt="Ancuo Dev Build"/>
@@ -505,6 +505,18 @@
 			<h3>Ancuo</h3>
 			<p>A GCal Synchronizer 📆</p>
 			<p>Expo Dev Build 🛠️</p>
+		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Work in Progress, a bit more in depth, default layout by the showcase app</Notes>
+	<div class="flex content-center justify-center">
+		<img src="ancuo-launcher.png" alt="Ancuo Dev Build"/>
+		<div class="flex flex-1 flex-col self-stretch justify-self-stretch justify-center">
+			<h3>Ancuo</h3>
+			<p>A GCal Synchronizer 📆</p>
+			<p>Expo Dev Build 🛠️</p>
+			<p>Time: 1 Week? (🍀)</p>
 		</div>
 	</div>
 </Slide>
