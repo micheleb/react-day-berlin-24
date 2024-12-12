@@ -114,14 +114,13 @@
 </Slide>
 
 <Slide animate>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<Notes>It took me one day</Notes>
 	<div class="flex content-center justify-center">
 		<img src="shottino0.png" alt="shottino showcase"/>
 	</div>
 </Slide>
 
 <Slide animate>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
 			<img src="shottino0.png" alt="shottino showcase"/>
@@ -133,7 +132,6 @@
 </Slide>
 
 <Slide animate>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
 			<img src="shottino0.png" alt="shottino showcase"/>
@@ -146,7 +144,6 @@
 </Slide>
 
 <Slide>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
 			<img src="shottino1.jpeg" alt="shottino showcase"/>
@@ -159,7 +156,6 @@
 </Slide>
 
 <Slide>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
 			<img src="shottino2.jpeg" alt="shottino showcase"/>
@@ -172,7 +168,6 @@
 </Slide>
 
 <Slide>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
 			<img src="shottino3.jpeg" alt="shottino showcase"/>
@@ -185,7 +180,6 @@
 </Slide>
 
 <Slide animate>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
 			<img src="shottino4.jpeg" alt="shottino showcase"/>
@@ -198,7 +192,6 @@
 </Slide>
 
 <Slide animate>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
 			<img src="shottino4.jpeg" alt="shottino showcase"/>
@@ -212,7 +205,7 @@
 </Slide>
 
 <Slide>
-	<Notes>I even had ideas for logos, but had no time for that.</Notes>
+	<Notes>Still works, but Bluesky fixed the issue. Plug via USB, update.</Notes>
 	<div class="flex content-center justify-center">
 		<div class="flex-1">
 			<img src="shottino4.jpeg" alt="shottino showcase"/>
@@ -360,6 +353,12 @@
 			<p>And a Timer️️ ⏲️</p>
 			<p>Using Expo Go️️ 🤫</p>
 		</div>
+	</div>
+</Slide>
+<Slide animate>
+	<Notes>Yes, it's the Expo Dev Server, apps connect to it and auto-reload</Notes>
+	<div class="flex content-center justify-center">
+	  <img src="why-not.jpg" class="contain " alt="Bilbo Baggins why not meme"/>
 	</div>
 </Slide>
 <Slide animate>
