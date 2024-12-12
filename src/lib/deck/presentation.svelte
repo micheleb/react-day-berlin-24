@@ -48,6 +48,28 @@
 
 <Slide>
 	<div class="flex content-center justify-center h-dvh">
+		<img data-src="onboarding1.png" class="cover" alt="fake onboarding dialog" />
+	</div>
+</Slide>
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="onboarding2.png" class="cover" alt="fake onboarding dialog" />
+	</div>
+</Slide>
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="onboarding3.png" class="cover" alt="fake onboarding dialog" />
+	</div>
+</Slide>
+
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
+		<img data-src="paywall.png" class="cover" alt="fake paywall" />
+	</div>
+</Slide>
+
+<Slide>
+	<div class="flex content-center justify-center h-dvh">
 		<img data-src="ben.webp" class="cover" alt="Ben Affleck Smoking meme" />
 	</div>
 </Slide>
@@ -102,7 +124,7 @@
 			<h3>It's-a me!</h3>
 			<Slide animate>
 				<Fragment animation="fade-in-then-semi-out">Full-Stack Dev</Fragment>
-				<Fragment animation="fade-in-then-semi-out">Working with RN + 📺 @Zattoo</Fragment>
+				<Fragment animation="fade-in-then-semi-out">Working with RN on 📺 @Zattoo</Fragment>
 				<Fragment animation="fade-in-then-semi-out">Opinions are my very own</Fragment>
 			</Slide>
 		</div>
